@@ -4,7 +4,7 @@
 - Fundamental analysis includes **general stock information**.
 - Technical analysis includes technical indicators like **Moving Average, Moving Average Convergence Divergence (MACD), and Bollinger Band**.
 - Deployment is done with **Streamlit sharing**.
-- [Live!](https://share.streamlit.io/sumittttttt/nifty-stock-market-screener-streamlit/main/Nifty50Screener.py)
+- [Live!](https://https://share.streamlit.io/sushankhole/stocks/main/Nifty50Screener.py)
 
 
 
