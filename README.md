@@ -6,6 +6,5 @@
 - Deployment is done with **Streamlit sharing**.
 - [Live!](https://share.streamlit.io/sumittttttt/nifty-stock-market-screener-streamlit/main/Nifty50Screener.py)
 
-#### Preview of the webapp
-![webapp](https://github.com/sumittttttt/Nifty-Stock-Market-Screener-Streamlit/blob/main/media/webapp-demo.gif.gif)
+
 
